@@ -1,0 +1,49 @@
+.wrapper{
+	width: 800px;
+	background-color: #E6EAEC;
+	margin:0 auto 0 auto;
+}
+.heading{
+	height: 40px;
+	background: #0C3977;
+	color:white;
+	font-size: 23px;
+	padding: 5px;
+
+}
+	
+.myimage{
+	background-color:#0C3977;
+	height: 35px;
+	border-right: 25px solid #0C3977 ;
+    color: white;
+    border-top: 2px solid #0C3977;
+    border-left: 25px solid #0C3977;
+
+	
+
+	
+}
+.my-article{
+	height: 200px;
+	margin: 70px;
+	border-bottom:65px solid #FFFFFF;
+	clear: right;
+
+    
+}
+.content{
+	min-height: 400px;
+	background:#E6EAEC;
+	color:grey;
+}
+.footer{
+	clear: left  ;
+	background: #0FA7D2;
+	height: 35px;
+	color: white;
+	text-align: center;
+	border-right:350px solid #E6EAEC;
+	border-left: 350px solid #E6EAEC ;
+
+}
